@@ -1,4 +1,4 @@
-# Effects of Age, Gender, and Environmental Factors on Marathon Performance
+# README for Effects of Age, Gender, and Environmental Factors on Marathon Performance
 
 ### **Overview**
 This project investigates how age, gender, and environmental factors (e.g., temperature, humidity, wind, and air quality) affect marathon performance. Specifically, it examines performance trends across age groups, gender-based differences, and the influence of adverse weather conditions, with a focus on the Wet Bulb Globe Temperature (WBGT) and its flag categories indicating heat risk levels.
