@@ -49,6 +49,8 @@ The dataset combines marathon results and environmental data from five major U.S
 - **`Project1.pdf`**: Final project report detailing the analysis, visualizations, and conclusions.
 - **`final_marathon_df.csv`**: Cleaned dataset used for the analysis.
 - **R Markdown Files**: Scripts for data processing, analysis, and visualization.
+- **`Table1Summary.png`**: PNG of Table 1 Summary Statistics due to the final report pdf not knitting table correctly.
+- **`Table2Summary.png`**: PNG of Table 2 Summary Statistics due to the final report pdf not knitting table correctly.
 
 ---
 
